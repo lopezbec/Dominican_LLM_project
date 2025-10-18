@@ -32,7 +32,7 @@ Más allá del ámbito de emergencias, esta tecnología promueve la **inclusión
 
 ---
 
-# Development of a Multimodal Large Language Model for the Dominican Dialect  
+# 🇺🇸 Development of a Multimodal Large Language Model for the Dominican Dialect  
 **Project FONDOCYT 2024-2-3A1-1057**
 
 ## 📘 Project Description
@@ -50,4 +50,22 @@ While the main focus is on improving **emergency response systems**, the resulti
 ### 🎯 General Objective
 To develop a **multimodal Large Language Model** specifically adapted to the Dominican dialect, capable of **processing both audio and text inputs** from Dominican speakers.
 
-### 🎯
+### 🎯 Specific Objectives
+1. **Compile** a diverse dataset of audio and text that captures the richness of the Dominican dialect, including slang and local expressions.  
+2. **Evaluate and fine-tune** a **speech recognition model** using Dominican audio data to improve transcription accuracy.  
+3. **Evaluate and fine-tune** **pretrained Large Language Models** using text datasets specific to the Dominican Republic.  
+4. **Develop** a **multimodal system** that combines the fine-tuned speech recognition model and the Large Language Model, enabling **audio input processing and contextually relevant responses**.
+
+---
+
+### 💡 Expected Impact
+Effective communication in emergencies can be **crucial for saving lives**.  
+A system that understands Dominican slang and expressions can **increase operational efficiency** by **automating initial information collection**, allowing human operators to focus on more complex tasks.
+
+Beyond emergency response, this technology promotes **linguistic inclusion**, strengthening the interaction between citizens and digital systems in an increasingly globalized world.
+
+---
+
+🧩 **Grant Reference:** FONDOCYT 2024-2-3A1-1057  
+📍 **Sponsor:** Gobierno de la República Dominicana  
+🏛️ **Program:** Fondo Nacional de Innovación y Desarrollo Científico y Tecnológico (FONDOCYT)
