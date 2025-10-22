@@ -66,9 +66,9 @@ Beyond emergency response, this technology promotes **linguistic inclusion**, st
 
 ---
 
-🧩 Grant Reference: FONDOCYT 2024-2-3A1-1057
-📍 Sponsor: Gobierno de la República Dominicana
-🏛️ Program: Fondo Nacional de Innovación y Desarrollo Científico y Tecnológico (FONDOCYT)
-🎓 Beneficiary Institution: Pontificia Universidad Católica Madre y Maestra (PUCMM)
+🧩 **Grant Reference:** FONDOCYT 2024-2-3A1-1057
+📍 **Sponsor:** Gobierno de la República Dominicana
+🏛️ **Program:** Fondo Nacional de Innovación y Desarrollo Científico y Tecnológico (FONDOCYT)
+🎓 **Beneficiary Institution:** Pontificia Universidad Católica Madre y Maestra (PUCMM)
 
 This project is conducted at and partially funded by the Pontificia Universidad Católica Madre y Maestra (PUCMM). It is also supported by the Government of the Dominican Republic through the FONDOCYT program.
