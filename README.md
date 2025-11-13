@@ -72,3 +72,27 @@ Beyond emergency response, this technology promotes **linguistic inclusion**, st
 🎓 **Beneficiary Institution:** Pontificia Universidad Católica Madre y Maestra (PUCMM)  
 
 This project is conducted at and partially funded by the Pontificia Universidad Católica Madre y Maestra (PUCMM). It is also supported by the Government of the Dominican Republic through the FONDOCYT program.
+
+
+---
+
+#  Next Steps:
+
+## Data Collection
+
+- Continue text data scraping from  websites
+
+- Continue transcript and audio-only data scraping
+
+
+## Data Preprocessing
+
+### Text Data
+- Need to remove “markdown” syntax character from .md file of scraped data
+- No enforced single-language keep (e.g., "Spanish only" filter).
+- Check for text duplicates
+- Work on data normalization/cleaning pipeline: no Unicode/whitespace fixes, entity/date standardization, or low-content pruning out of the box.
+
+### Audio Data
+-	Match audio with text (identity start points) 
+
