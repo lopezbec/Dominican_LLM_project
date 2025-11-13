@@ -82,7 +82,7 @@ This project is conducted at and partially funded by the Pontificia Universidad 
 
 - Continue text data scraping from  websites
 
-- Continue transcript and audio-only data scraping (transcript data could also be used as text data scraping) 
+- Continue transcript and audio-only data scraping (transcript data could also be used as text data too) 
 
 
 ## Data Preprocessing
